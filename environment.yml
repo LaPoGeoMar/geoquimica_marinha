@@ -4,8 +4,23 @@ channels:
   - defaults
 dependencies:
   - python=3.7
+  - cartopy
+  - erddapy
+  - folium
+  - geopandas
+  - iris
   - jupyter
   - matplotlib
+  - netcdf4
   - numpy
+  - palettable
   - pandas
+  - pillow
+  - pymc3
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - sympy
+  - windrose
+  - xarray
   - xlrd
