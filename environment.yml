@@ -16,7 +16,6 @@ dependencies:
   - palettable
   - pandas
   - pillow
-  - pymc3
   - scikit-learn
   - seaborn
   - statsmodels
