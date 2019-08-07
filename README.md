@@ -15,13 +15,15 @@
 1. Faça download do ``miniconda`` com o Python 3.7 escolhendo a sua plataforma (`Linux`, `OS X` ou `Windows`);
   <https://docs.conda.io/en/latest/miniconda.html>;
 2. No Windows, clique no arquivo e siga as instruções\*.
-   Para macOS ou Linux abra um terminal onde baixou o ``miniconda``,
+   Para macOS ou Linux abra um terminal e no diretório onde foi baixado o ``miniconda``,
    digite ``sh Miniconda3-latest-Linux-x86_64.sh``,
    e siga as instruções na tela\*;
-3. Faça o "clone" do repositório das aulas com ``git clone https://github.com/juoceano/2019_MarinePollution.git``;
-4. Entre no diretório com ``cd 2019_MarinePollution`` e digite ``conda env create --file environment.yml`` para criar o ambiente de aula;
-5. Ative o ambiente de aula com ``conda activate AULA``.
+3. Quando finalizar fechar e reabrir o terminal.
+4. Faça o "clone" do repositório das aulas com 
+``git clone https://github.com/juoceano/2019_MarinePollution.git``;
+5. Entre no diretório com ``cd 2019_MarinePollution`` e digite ``conda env create --file environment.yml`` para criar o ambiente de aula;
+6. Ative o ambiente de aula com ``conda activate AULA``.
 
 \* As instruções vou pedir para confirmar algumas coisas como aceite de licença e diretório de instalação. No Windows não é recomendado instalar para todos os usuário e não é necessário colocar o Pyhton do ``miniconda`` como padrão pois o instalador coloca um ícone para abrir o `AnacondaPrompt` direto.
 
-Em macOS e Linux é necessário fechar e abrir o terminal novamente para o comando ``conda`` estar disponível. Você pode testar o comando com ``which conda``.
+
