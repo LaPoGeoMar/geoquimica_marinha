@@ -1,13 +1,16 @@
 name: AULA
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python=3.7
+  - python=3.8
+  - bokeh=1.4
   - cartopy
+  - eofs
   - erddapy
   - folium
   - geopandas
+  - holoviews
+  - hvplot
   - iris
   - jupyter
   - matplotlib
@@ -17,6 +20,7 @@ dependencies:
   - pandas
   - pillow
   - scikit-learn
+  - scipy
   - seaborn
   - statsmodels
   - sympy
