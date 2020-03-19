@@ -1,4 +1,4 @@
-name: AULA
+name: AULA_GEOCHEM
 channels:
   - conda-forge
 dependencies:
