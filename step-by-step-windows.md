@@ -45,4 +45,4 @@ where conda
 
 você dever ver algo assim,
 
-![](images/win/09-miniconda-terminal.pngg?raw=true)
+![](images/win/09-miniconda-terminal.png?raw=true)
