@@ -28,9 +28,10 @@
 3. Agora você deve fechar e reabrir o terminal.
    Caso tenha dificuldade no terminal recomendamos os [tutoriais 1-3](https://swcarpentry.github.io/shell-novice) do Software Carpentry sobre o shell (terminal).
 
-4. Faça o "clone" do repositório das aulas com
+4. Instale o ``git`` e faça o "clone" do repositório das aulas com
 
 ```shell
+conda install git
 git clone https://github.com/juoceano/geoquimica_marinha.git
 ```
 
