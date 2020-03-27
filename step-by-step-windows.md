@@ -23,7 +23,7 @@ d) aceite o diretório padrão;
 ![](images/win/04-miniconda-directory.png?raw=true)
 
 
-e) desmarque ambas caixas pois não queremos o Python do miniconda como padrão e não precisamos colocar o *Miniconda3* no **PATH**;
+e) desmarque ambas caixas, pois não queremos o Python do miniconda como padrão e não precisamos colocar o *Miniconda3* no **PATH**;
 
 ![](images/win/05-miniconda-boxes.png?raw=true)
 
@@ -33,7 +33,7 @@ f) no final da instalação clique em *Next* e *Finish*;
 ![](images/win/07-miniconda-final-2.png?raw=true)
 
 
-g) procure o ícone *Anaconda Prompt (miniconda3)* no meu e clique nele para certificar que a instalação correu corretamente.
+g) procure o ícone *Anaconda Prompt (miniconda3)* e clique nele para certificar que a instalação correu corretamente.
 
 ![](images/win/08-miniconda-prompt.png?raw=true)
 
@@ -43,6 +43,6 @@ Para confirmar se o ``conda`` está corretamente instalado digite:
 where conda
 ```
 
-você dever ver algo assim,
+você dever ver algo assim:
 
 ![](images/win/09-miniconda-terminal.png?raw=true)

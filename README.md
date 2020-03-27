@@ -35,8 +35,8 @@ conda install git
 git clone https://github.com/juoceano/geoquimica_marinha.git
 ```
 
-Essa etapa deve ser feita dentro diretório onde você queira salvar esse material e que será seu diretório de trabalho futuramente.
-Cabe a cada um organizar seus arquivos da melhor forma que acharem adequado.
+Essa etapa deve ser feita dentro do diretório onde você queira salvar esse material e que será seu diretório de trabalho futuramente.
+Cabe a cada um organizar seus arquivos da melhor forma que achar adequado.
 Mas lembrem ondem salvaram o clone das aulas!!!
 
 5. O próximo passo é entrar no diretório e criar o ambiente de aula:
