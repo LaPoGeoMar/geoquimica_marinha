@@ -31,7 +31,7 @@
 4. Instale o ``git`` e faça o "clone" do repositório das aulas com
 
 ```shell
-conda install git
+conda install git --yes
 git clone https://github.com/juoceano/geoquimica_marinha.git
 ```
 
