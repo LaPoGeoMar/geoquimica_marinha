@@ -13,12 +13,13 @@ dependencies:
   - hvplot
   - iris
   - jupyter
-  - matplotlib
+  - matplotlib-base
   - netcdf4
   - numpy
   - palettable
   - pandas
   - pillow
+  - pytest
   - scikit-learn
   - scipy
   - seaborn
