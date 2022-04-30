@@ -1,0 +1,24 @@
+name: Tests
+
+on: [push, pull_request]
+
+jobs:
+  run:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        python-version: ["3.10"]
+        os: [windows-latest, ubuntu-latest, macos-latest]
+      fail-fast: false
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Setup Mamba
+      uses: mamba-org/provision-with-micromamba@main
+
+    - name: Tests
+      shell: bash -l {0}
+      run: |
+        micromamba activate AULA_GEOCHEM
+        pytest --nbval-lax -p no:python .

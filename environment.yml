@@ -2,8 +2,8 @@ name: AULA_GEOCHEM
 channels:
   - conda-forge
 dependencies:
-  - python=3.8
-  - bokeh=1.4
+  - python=3.10
+  - bokeh
   - cartopy
   - eofs
   - erddapy
