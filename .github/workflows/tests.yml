@@ -7,7 +7,6 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        python-version: ["3.10"]
         os: [windows-latest, ubuntu-latest, macos-latest]
       fail-fast: false
 
@@ -21,4 +20,5 @@ jobs:
       shell: bash -l {0}
       run: |
         micromamba activate AULA_GEOCHEM
+        micromamba install nbval --yes
         pytest --nbval-lax -p no:python .
