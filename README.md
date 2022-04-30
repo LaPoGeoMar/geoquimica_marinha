@@ -1,9 +1,8 @@
 # Aulas práticas de Geoquímica
 
-| Platform        | Status                                                                                                                                                          |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Linux and macOS | [![Travis](https://img.shields.io/travis/com/juoceano/geoquimica_marinha/master.svg?label=Linux/macOS)](https://travis-ci.com/juoceano/geoquimica_marinha)  |
-| Windows         | [![AppVeyor](https://img.shields.io/appveyor/ci/juoceano/geoquimica_marinha/master.svg?label=Windows)](https://ci.appveyor.com/project/juoceano/geoquimica_marinha/branch/master) |
+| Platform        | Status                                                                                                                                                                                 |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Linux, macOS, and Windows | [![Tests](https://github.com/juoceano/geoquimica_marinha/actions/workflows/tests.yml/badge.svg)](https://github.com/juoceano/geoquimica_marinha/actions/workflows/tests.yml) |
 
 ## Binder
 

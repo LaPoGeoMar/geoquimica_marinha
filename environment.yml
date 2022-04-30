@@ -3,27 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
-  - bokeh
-  - cartopy
-  - eofs
-  - erddapy
   - folium
   - geopandas
-  - holoviews
-  - hvplot
-  - iris
   - jupyter
-  - matplotlib
-  - netcdf4
-  - numpy
-  - palettable
-  - pandas
-  - pillow
-  - scikit-learn
-  - scipy
-  - seaborn
-  - statsmodels
-  - sympy
-  - windrose
-  - xarray
-  - xlrd
+  - matplotlib-base
