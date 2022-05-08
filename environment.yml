@@ -3,7 +3,12 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
+  - cartopy
   - folium
   - geopandas
   - jupyter
   - matplotlib-base
+  - openpyxl
+  - scikit-learn
+  - seaborn
+  - statsmodels
