@@ -9,6 +9,7 @@ dependencies:
   - jupyter
   - matplotlib-base
   - openpyxl
+  - pooch
   - scikit-learn
   - seaborn
   - statsmodels
