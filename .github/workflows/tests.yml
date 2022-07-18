@@ -11,14 +11,17 @@ jobs:
       fail-fast: false
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     - name: Setup Mamba
       uses: mamba-org/provision-with-micromamba@main
+      with:
+        environment-file: false
 
     - name: Tests
       shell: bash -l {0}
       run: |
+        micromamba create --name AULA_GEOCHEM --file environment.yml --channel conda-forge
         micromamba activate AULA_GEOCHEM
-        micromamba install nbval --yes
-        pytest --nbval-lax -p no:python .
+        micromamba install pytest nbval --channel conda-forge --yes
+        python -m pytest --nbval-lax -p no:python .
