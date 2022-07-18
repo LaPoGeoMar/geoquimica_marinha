@@ -6,8 +6,10 @@ dependencies:
   - cartopy
   - folium
   - geopandas
+  - hvplot
   - jupyter
   - matplotlib-base
+  - netcdf4
   - openpyxl
   - pooch
   - pyjanitor

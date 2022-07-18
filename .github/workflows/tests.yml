@@ -23,5 +23,5 @@ jobs:
       run: |
         micromamba create --name AULA_GEOCHEM --file environment.yml --channel conda-forge
         micromamba activate AULA_GEOCHEM
-        micromamba install nbval --channel conda-forge --yes
-        pytest --nbval-lax -p no:python .
+        micromamba install pytest nbval --channel conda-forge --yes
+        python -m pytest --nbval-lax -p no:python .
