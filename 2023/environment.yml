@@ -5,6 +5,9 @@ dependencies:
   - python=3.11
   - cartopy
   - cf_xarray
+  - cmcrameri
+  - cmocean
+  - erddapy
   - folium
   - geopandas
   - gsw
