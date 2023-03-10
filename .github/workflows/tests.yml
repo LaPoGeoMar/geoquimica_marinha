@@ -24,7 +24,7 @@ jobs:
     - name: Python ${{ matrix.python-version }}
       shell: bash -l {0}
       run: >
-        micromamba create --name AULA_GEOCHEM --file 2023/environment.yml --channel conda-forge
+        micromamba create --name AULA_GEOCHEM --file environment.yml --channel conda-forge
         && micromamba activate AULA_GEOCHEM
 
     - name: Tests
