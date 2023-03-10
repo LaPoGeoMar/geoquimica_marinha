@@ -1,17 +1,17 @@
-# Creation date (YYYY-MM-DD): 2021-07-15 
+# Creation date (YYYY-MM-DD): 2021-07-15
 # File created by: Darrell Kaufman
 # email: Darrell.Kaufman@nau.edu
 # ========================
-# GENERAL INFORMATION 
-# 
-# *Title 
-# Readme for data for Figure SPM.1 from the Summary for Policymakers of the Working Group I (WGI) Contribution to the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6). 
-# 
+# GENERAL INFORMATION
+#
+# *Title
+# Readme for data for Figure SPM.1 from the Summary for Policymakers of the Working Group I (WGI) Contribution to the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6).
+#
 # ========================
 # DATA & FILE OVERVIEW
 #
 # List of all files and subfolders
-# 
+#
 # --------------------------
 # Panel a
 #
@@ -37,7 +37,7 @@
 #
 # N° of columns: 4
 # Column headings: year, temp, 5%, 95%
-#        
+#
 #
 # column_name 1: year
 # long_name: year
@@ -72,7 +72,7 @@
 #
 # N° of columns: 2
 # Column headings: year, temp
-#        
+#
 #
 # column_name 1: year
 # long_name: year
@@ -93,7 +93,7 @@
 #
 # N° of columns: 2
 # Column headings: 5%, 95%
-# 
+#
 # column_name 1: age
 # long_name: years before 2000
 # units: year
