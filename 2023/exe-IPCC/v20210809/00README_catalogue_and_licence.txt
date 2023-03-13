@@ -16,16 +16,14 @@ Data Status:
 ------------
     This dataset has been completed.
 
-licence: 
+licence:
 --------
-    Use of these data is covered by the following licence: 
-    
+    Use of these data is covered by the following licence:
+
     http://creativecommons.org/licenses/by/4.0/
-    
+
     When using these data you must cite them correctly using the citation given on the catalogue record.
-   
+
 Access:
 -------
    Public data: access to these data is available to both registered and non-registered users.
-   
-
