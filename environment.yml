@@ -4,23 +4,14 @@ channels:
 dependencies:
   - python=3.11
   - cartopy
-  - cf_xarray
-  - cmcrameri
-  - cmocean
-  - erddapy
-  - folium
-  - geopandas
-  - gsw
-  - hvplot
-  - jupyter
-  - matplotlib-base
-  - netcdf4
-  - oceans
-  - openpyxl
-  - palettable
-  - pooch
-  - pyjanitor
-  - scikit-learn
-  - seaborn
-  - seawater
-  - statsmodels
+  - pip
+  - pip:
+    - cf_xarray
+    - cmcrameri
+    - gsw
+    - jupyter
+    - matplotlib
+    - oceans
+    - openpyxl
+    - palettable
+    - pooch
