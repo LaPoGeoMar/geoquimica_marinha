@@ -32,4 +32,4 @@ jobs:
       run: |
         micromamba activate AULA_GEOCHEM
         micromamba install pytest nbval --channel conda-forge
-        pushd 2023 && python -m pytest --nbval-lax -p no:python .
+        python -m pytest --nbval-lax -p no:python 2023
