@@ -6,3 +6,6 @@ select = [
 ]
 target-version = "py37"
 line-length = 120
+
+[tool.pytest.ini_options]
+addopts = "--ignore=\"2023/exe-MODIS-Chlorophyll-a/00-download-MODIS-Chlorophyll-a.ipynb\""
