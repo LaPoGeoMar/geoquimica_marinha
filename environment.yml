@@ -2,15 +2,17 @@ name: AULA_GEOCHEM
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.10
   - cartopy
   - pip
   - pip:
     - cf_xarray
     - cmcrameri
+    - erddapy
     - gsw
     - jupyter
     - matplotlib
+    - netcdf4==1.5.8
     - oceans
     - openpyxl
     - palettable
