@@ -9,6 +9,7 @@ dependencies:
     - cf_xarray
     - cmcrameri
     - erddapy
+    - folium
     - gsw
     - jupyter
     - matplotlib
@@ -17,3 +18,4 @@ dependencies:
     - openpyxl
     - palettable
     - pooch
+    - statsmodels
