@@ -17,5 +17,6 @@ dependencies:
     - oceans
     - openpyxl
     - palettable
+    - pangaeapy
     - pooch
     - statsmodels
