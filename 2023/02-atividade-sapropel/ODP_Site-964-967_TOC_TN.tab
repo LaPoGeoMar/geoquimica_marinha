@@ -1,0 +1,143 @@
+/* DATA DESCRIPTION:
+Citation:	Elling, Felix J; Hemingway, Jordon D; Kharbush, Jenan; Becker, Kevin W; Polik, Catherine Ann; Pearson, Ann (2021): Table S4, Content and stable isotopic composition of total organic carbon (TOC) and total nitrogen (TN) for ODP cores at sites 964 and 967. PANGAEA, https://doi.org/10.1594/PANGAEA.936831, 
+	In: Elling, FJ et al. (2021): Mediterranean sapropel bulk organic matter and biomarker concentrations and carbon isotope compositions. PANGAEA, https://doi.org/10.1594/PANGAEA.937082
+Abstract:	Bulk organic carbon (OC) and nitrogen content and stable isotope compositions for ODP cores at sites 964 and 967, including: event name, sapropel layer, core, depth (top), depth (bottom), OC content (mean), OC content (std. dev.), OC d13C (mean), OC d13C (std. dev.), nitrogen content (mean), nitrogen content (std. dev.), d15N (mean), d15N (std. dev.), and C/N ratio. All content and isotope data were generated using a Thermo Scientific Delta V isotope ratio mass spectrometer run in continuous flow mode. Samples were acidified by fumigation prior to OC content and d13C analysis; samples were run without acidification for N content and d15N analysis.
+	This work was supported by the Gordon and Betty Moore Foundation.
+Keyword(s):	anoxia; Bacteriohopanepolyols; biomarkers; d13C; d15N; GDGTs; heterocyst glycolipids; Mediterranean Sea; nitrogen cycle; organic matter; sapropels
+Related to:	Elling, Felix J; Hemingway, Jordon D; Kharbush, Jenan; Becker, Kevin W; Polik, Catherine Ann; Pearson, Ann (2021): Linking diatom-diazotroph symbioses to nitrogen cycle perturbations and deep-water anoxia: Insights from Mediterranean sapropel events. Earth and Planetary Science Letters, 571, 117110, https://doi.org/10.1016/j.epsl.2021.117110
+Project(s):	Ocean Drilling Program (ODP) (URI: http://www-odp.tamu.edu/)
+Funding:	National Science Foundation (NSF), grant/award no. EAR-1349126 (URI: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1349126)
+	National Science Foundation (NSF), grant/award no. OCE-1702262 (URI: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1702262)
+	National Science Foundation (NSF), grant/award no. OCE-1843285: Carbon isotope fractionation in Archaea using the 3HP/4HB pathway: Prospects for paleo-geochemistry and paleo-barometry (URI: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1843285)
+Coverage:	MEDIAN LATITUDE: 35.164850 * MEDIAN LONGITUDE: 25.237650 * SOUTH-BOUND LATITUDE: 34.068300 * WEST-BOUND LONGITUDE: 17.749700 * NORTH-BOUND LATITUDE: 36.260800 * EAST-BOUND LONGITUDE: 32.725600
+	DATE/TIME START: 1995-03-17T20:14:00 * DATE/TIME END: 1995-04-03T21:15:00
+	MINIMUM ELEVATION: -3661.0 m * MAXIMUM ELEVATION: -2552.0 m
+Event(s):	160-964A * LATITUDE: 36.260300 * LONGITUDE: 17.749700 * DATE/TIME START: 1995-03-17T20:14:00 * DATE/TIME END: 1995-03-18T21:30:00 * ELEVATION: -3658.0 m * Penetration: 101.8 m * Recovery: 106.12 m * LOCATION: Eastern Basin * CAMPAIGN: Leg160 (URI: https://doi.org/10.2973/odp.proc.ir.160.1996) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * METHOD/DEVICE: Drilling/drill rig (DRILL) * COMMENT: 11 core; 101.8 m cored; 0 m drilled; 104.2 % recovery
+	160-964D * LATITUDE: 36.260600 * LONGITUDE: 17.750000 * DATE/TIME START: 1995-03-20T02:00:00 * DATE/TIME END: 1995-03-20T16:45:00 * ELEVATION: -3660.0 m * Penetration: 108.6 m * Recovery: 112.2 m * LOCATION: Eastern Basin * CAMPAIGN: Leg160 (URI: https://doi.org/10.2973/odp.proc.ir.160.1996) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * METHOD/DEVICE: Drilling/drill rig (DRILL) * COMMENT: 12 cores; 108.6 m cored; 0 m drilled; 103.3 % recovery
+	160-964E * LATITUDE: 36.260800 * LONGITUDE: 17.750000 * DATE/TIME START: 1995-03-20T16:45:00 * DATE/TIME END: 1995-03-21T00:45:00 * ELEVATION: -3661.0 m * Penetration: 85.5 m * Recovery: 54.32 m * LOCATION: Eastern Basin * CAMPAIGN: Leg160 (URI: https://doi.org/10.2973/odp.proc.ir.160.1996) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * METHOD/DEVICE: Drilling/drill rig (DRILL) * COMMENT: 6 cores; 53 m cored; 0 m drilled; 102.5 % recovery
+	160-967A * LATITUDE: 34.068300 * LONGITUDE: 32.725300 * DATE/TIME START: 1995-04-01T23:50:00 * DATE/TIME END: 1995-04-02T11:40:00 * ELEVATION: -2553.0 m * Penetration: 141.3 m * Recovery: 142.14 m * LOCATION: Eastern Basin * CAMPAIGN: Leg160 (URI: https://doi.org/10.2973/odp.proc.ir.160.1996) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * METHOD/DEVICE: Drilling/drill rig (DRILL) * COMMENT: 16 cores; 141.3 m cored; 0 m drilled; 100.6 % recovery
+	160-967B * LATITUDE: 34.068300 * LONGITUDE: 32.725300 * DATE/TIME START: 1995-04-02T11:40:00 * DATE/TIME END: 1995-04-03T00:40:00 * ELEVATION: -2555.0 m * Penetration: 121.5 m * Recovery: 126.61 m * LOCATION: Eastern Basin * CAMPAIGN: Leg160 (URI: https://doi.org/10.2973/odp.proc.ir.160.1996) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * METHOD/DEVICE: Drilling/drill rig (DRILL) * COMMENT: 14 cores; 121.5 m cored; 0 m drilled; 104.2 % recovery
+	160-967D * LATITUDE: 34.070800 * LONGITUDE: 32.725600 * DATE/TIME START: 1995-04-03T13:50:00 * DATE/TIME END: 1995-04-03T21:15:00 * ELEVATION: -2552.0 m * Penetration: 16.2 m * Recovery: 16.89 m * LOCATION: Eastern Basin * CAMPAIGN: Leg160 (URI: https://doi.org/10.2973/odp.proc.ir.160.1996) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * METHOD/DEVICE: Drilling/drill rig (DRILL) * COMMENT: 2 cores; 16.2 m cored; 0 m drilled; 104.3 % recovery
+Parameter(s):	Event label (Event) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de)
+	Site (Site) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de)
+	Sapropel layer (Sapropel) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de)
+	Core (Core) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de)
+	Depth, top/min [m] (Depth top) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de)
+	Depth, bottom/max [m] (Depth bot) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de)
+	Carbon, organic, total [%] (TOC) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de) * METHOD/DEVICE: Thermo Scientific Flash elemental analyzer coupled to a Thermo Scientific Delta V isotope ratio mass spectrometer in conflo mode
+	Carbon, organic, total, standard deviation [±] (TOC std dev) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de) * METHOD/DEVICE: Thermo Scientific Flash elemental analyzer coupled to a Thermo Scientific Delta V isotope ratio mass spectrometer in conflo mode
+	δ13C, total organic carbon [‰ PDB] (δ13C TOC) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de) * METHOD/DEVICE: Thermo Scientific Flash elemental analyzer coupled to a Thermo Scientific Delta V isotope ratio mass spectrometer in conflo mode
+	δ13C, total organic carbon, standard deviation [±] (δ13C TOC std dev) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de) * METHOD/DEVICE: Thermo Scientific Flash elemental analyzer coupled to a Thermo Scientific Delta V isotope ratio mass spectrometer in conflo mode
+	Nitrogen, total [%] (TN) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de) * METHOD/DEVICE: Thermo Scientific Flash elemental analyzer coupled to a Thermo Scientific Delta V isotope ratio mass spectrometer in conflo mode
+	Nitrogen, total, standard deviation [±] (TN std dev) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de) * METHOD/DEVICE: Thermo Scientific Flash elemental analyzer coupled to a Thermo Scientific Delta V isotope ratio mass spectrometer in conflo mode
+	δ15N [‰ air] (δ15N) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de) * METHOD/DEVICE: Thermo Scientific Flash elemental analyzer coupled to a Thermo Scientific Delta V isotope ratio mass spectrometer in conflo mode * COMMENT: total nitrogen
+	δ15N, standard deviation [±] (δ15N std dev) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de) * METHOD/DEVICE: Thermo Scientific Flash elemental analyzer coupled to a Thermo Scientific Delta V isotope ratio mass spectrometer in conflo mode * COMMENT: total nitrogen
+	Carbon, organic, total/Nitrogen, total ratio (TOC/TN) * PI: Elling, Felix J (https://orcid.org/0000-0003-0405-4033, felling@leibniz.uni-kiel.de) * METHOD/DEVICE: Thermo Scientific Flash elemental analyzer coupled to a Thermo Scientific Delta V isotope ratio mass spectrometer in conflo mode
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0)
+Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Curation_levels)
+Size:	1307 data points
+*/
+Event	Site	Sapropel	Core	Depth top [m]	Depth bot [m]	TOC [%]	TOC std dev [±]	δ13C TOC [‰ PDB]	δ13C TOC std dev [±]	TN [%]	TN std dev [±]	δ15N [‰ air]	δ15N std dev [±]	TOC/TN
+160-964A	964	S5	A2H1	0.81	0.83	0.22	0.00	-22.80	0.3	0.04	0.00	5.36	0.19	6.13
+160-964A	964	S5	A2H1	0.83	0.85	0.21	0.00	-22.35	0.3	0.04		4.94		5.48
+160-964A	964	S5	A2H1	0.85	0.87	0.21	0.00	-22.68	0.3	0.04	0.00	4.53	0.44	5.01
+160-964A	964	S5	A2H1	0.87	0.89	0.23	0.00	-23.18	0.3	0.04	0.00	3.95	0.43	5.24
+160-964A	964	S5	A2H1	0.89	0.90	0.40	0.00	-22.90	0.3	0.06		3.00		6.71
+160-964A	964	S5	A2H1	0.90	0.91	7.69	0.08	-22.51	0.3	0.43		-0.68		17.69
+160-964A	964	S5	A2H1	0.91	0.92	8.85	0.09	-22.46	0.3	0.44	0.02	-0.91	0.30	19.91
+160-964A	964	S5	A2H1	0.92	0.94	7.01	0.07	-22.67	0.3	0.44	0.00	-0.93	0.26	16.06
+160-964A	964	S5	A2H1	0.94	0.96	7.76	0.08	-21.61	0.3	0.37	0.04	-0.59	0.24	21.13
+160-964A	964	S5	A2H1	0.96	0.98	6.77	0.07	-22.07	0.3	0.35		-0.83		19.28
+160-964A	964	S5	A2H1	0.98	1.00	6.55	0.07	-22.33	0.3	0.30		-0.61		21.80
+160-964A	964	S5	A2H1	1.00	1.02	5.95	0.06	-22.56	0.3	0.31	0.02	-0.06	0.12	19.48
+160-964A	964	S5	A2H1	1.02	1.04	4.35	0.04	-22.95	0.3	0.23		0.39		18.78
+160-964A	964	S5	A2H1	1.04	1.05	4.30	0.04	-22.76	0.3	0.21		0.93		20.36
+160-964A	964	S5	A2H1	1.05	1.06	3.30	0.03	-22.82	0.3	0.18	0.01	1.45	0.08	18.69
+160-964A	964	S5	A2H1	1.06	1.07	1.68	0.02	-22.76	0.3	0.10	0.01	2.54	0.34	16.26
+160-964A	964	S5	A2H1	1.07	1.09	0.99	0.01	-23.40	0.3	0.08		3.60		12.08
+160-964A	964	S5	A2H1	1.09	1.11	0.55	0.01	-23.91	0.3	0.06		4.14		8.68
+160-964D	964	S7	D2H4	0.09	0.11	0.35	0.00	-22.32	0.3	0.05		4.84		6.84
+160-964D	964	S7	D2H4	0.11	0.13	0.32	0.00	-21.46	0.3	0.05	0.01	4.49	0.61	6.25
+160-964D	964	S7	D2H4	0.13	0.15	0.31	0.00	-21.68	0.3	0.05		4.08		6.42
+160-964D	964	S7	D2H4	0.15	0.17	0.43	0.00	-22.44	0.3	0.06		3.81		6.98
+160-964D	964	S7	D2H4	0.17	0.18	0.87	0.01	-22.39	0.3	0.09		2.97		9.47
+160-964D	964	S7	D2H4	0.18	0.19	3.94	0.04	-22.49	0.3	0.24	0.01	0.23	0.40	16.22
+160-964D	964	S7	D2H4	0.19	0.20	9.93	0.10	-21.88	0.3	0.45		-0.33		22.28
+160-964D	964	S7	D2H4	0.20	0.21	9.48	0.09	-22.23	0.3	0.39		-0.21		24.30
+160-964D	964	S7	D2H4	0.21	0.22	8.24	0.08	-22.30	0.3	0.34		-0.33		24.26
+160-964D	964	S7	D2H4	0.22	0.23	6.92	0.07	-22.69	0.3	0.32	0.02	-0.42	0.11	21.56
+160-964D	964	S7	D2H4	0.23	0.24	4.62	0.05	-22.67	0.3	0.27		-0.24		17.04
+160-964D	964	S7	D2H4	0.24	0.25	4.51	0.05	-22.71	0.3	0.26		-0.20		17.33
+160-964D	964	S7	D2H4	0.25	0.26	3.77	0.04	-23.13	0.3	0.25		0.64		14.97
+160-964D	964	S7	D2H4	0.26	0.27	3.22	0.03	-23.15	0.3	0.22		0.71		14.98
+160-964D	964	S7	D2H4	0.27	0.28	2.32	0.02	-23.17	0.3	0.19		0.65		12.17
+160-964D	964	S7	D2H4	0.28	0.29	2.20	0.02	-23.00	0.3	0.16		1.52		13.62
+160-964D	964	S7	D2H4	0.29	0.31	0.83	0.01	-23.26	0.3	0.09		2.59		8.87
+160-964D	964	S7	D2H4	0.31	0.33	0.34	0.00	-23.95	0.3	0.05		4.54		6.65
+160-964E	964	i-282	E6H3	1.44	1.46	0.10	0.00	-22.60	0.3	0.02		5.33		3.88
+160-964E	964	i-282	E6H3	1.46	1.48	0.13	0.00	-22.91	0.3	0.03		4.73		3.97
+160-964E	964	i-282	E6H3	1.48	1.50	0.18	0.00	-23.21	0.3	0.04		4.84		4.18
+160-964E	964	i-282	E6H4	0.00	0.01	0.33	0.00	-22.99	0.3	0.07		4.33		4.78
+160-964E	964	i-282	E6H4	0.01	0.02	6.08	0.06		0.3	0.50		-1.70		12.15
+160-964E	964	i-282	E6H4	0.02	0.03	7.15	0.07	-21.89	0.3	0.43		-1.91		16.82
+160-964E	964	i-282	E6H4	0.03	0.04	17.01	0.17	-22.34	0.3	0.79	0.21	-2.92	0.17	21.66
+160-964E	964	i-282	E6H4	0.04	0.05	20.02	0.20		0.3	1.11	0.05	-2.62	0.17	18.08
+160-964E	964	i-282	E6H4	0.05	0.06	21.20	0.21	-22.32	0.3	1.26	0.07	-3.35	0.37	16.87
+160-964E	964	i-282	E6H4	0.06	0.07	20.67	0.21	-22.32	0.3	1.16		-2.81		17.88
+160-964E	964	i-282	E6H4	0.07	0.08	8.75	0.09	-22.21	0.3	0.57	0.11	-2.26	0.54	15.44
+160-964E	964	i-282	E6H4	0.08	0.09	2.32	0.02	-21.63	0.3	0.19		-0.28		12.35
+160-964E	964	i-282	E6H4	0.09	0.10	0.84	0.01	-21.65	0.3	0.06	0.01	0.06	0.50	14.73
+160-964E	964	i-282	E6H4	0.10	0.12	0.20	0.00	-21.47	0.3	0.04		1.10		5.56
+160-964E	964	i-282	E6H4	0.12	0.14	0.17	0.00	-22.38	0.3	0.02		2.78		8.32
+160-964E	964	i-282	E6H4	0.14	0.16	0.14	0.00	-22.35	0.3	0.02		3.76		6.81
+160-967D	967	S4	D1H4	0.84	0.86	0.70	0.01	-17.26	0.3	0.07		1.96		9.58
+160-967D	967	S4	D1H4	0.86	0.88	3.22	0.03	-22.42	0.3	0.22	0.01	-0.86	0.31	14.64
+160-967D	967	S4	D1H4	0.88	0.89	5.51	0.06	-21.28	0.3	0.38	0.01	-0.86	0.23	14.42
+160-967D	967	S4	D1H4	0.89	0.90	7.14	0.07	-21.71	0.3	0.42	0.03	-1.05	0.09	17.04
+160-967D	967	S4	D1H4	0.90	0.91	5.53	0.06	-21.36	0.3	0.40	0.02	-0.98	0.08	13.85
+160-967D	967	S4	D1H4	0.91	0.92	7.36	0.07	-20.98	0.3	0.45	0.03	-0.91	0.10	16.39
+160-967D	967	S4	D1H4	0.92	0.93	5.32	0.05	-20.94	0.3	0.32		-1.16		16.88
+160-967D	967	S4	D1H4	0.93	0.94	7.77	0.08	-21.30	0.3	0.46	0.04	-0.76	0.06	16.85
+160-967D	967	S4	D1H4	0.94	0.95	7.22	0.07	-21.37	0.3	0.43	0.04	-0.38	0.15	16.99
+160-967D	967	S4	D1H4	0.95	0.96	7.30	0.07	-21.16	0.3	0.40	0.02	-0.14	0.05	18.15
+160-967D	967	S4	D1H4	0.96	0.97	4.56	0.05	-21.68	0.3	0.26		-0.18		17.71
+160-967D	967	S4	D1H4	0.97	0.98	2.42	0.02	-21.02	0.3	0.15		0.42		16.53
+160-967D	967	S4	D1H4	0.98	0.99	0.60	0.01	-17.98	0.3	0.05		2.87		13.20
+160-967D	967	S4	D1H4	0.99	1.01	0.79	0.01	-19.13	0.3	0.07		2.41		11.71
+160-967D	967	S4	D1H4	1.01	1.03	0.62	0.01	-18.10	0.3	0.05		2.91		13.11
+160-967D	967	S4	D1H4	1.03	1.05	0.68	0.01	-17.77	0.3	0.05		2.85		14.44
+160-967B	967	S5	B2H1	1.05	1.07	0.40	0.00	-19.80	0.3	0.05		3.91		8.93
+160-967B	967	S5	B2H1	1.07	1.09	0.47	0.00	-19.09	0.3	0.05		4.01		10.11
+160-967B	967	S5	B2H1	1.09	1.10	0.67	0.01	-19.30	0.3	0.06		3.53		11.31
+160-967B	967	S5	B2H1	1.10	1.11	1.02	0.01	-19.79	0.3	0.08		2.91		12.84
+160-967B	967	S5	B2H1	1.11	1.12	1.13	0.01	-19.73	0.3	0.08		2.76		13.51
+160-967B	967	S5	B2H1	1.13	1.15	1.20	0.01	-19.56	0.3	0.09		3.11		13.75
+160-967B	967	S5	B2H1	1.15	1.17	1.50	0.01	-22.89	0.3	0.13	0.01	1.21	0.26	11.61
+160-967B	967	S5	B2H1	1.19	1.21	1.87	0.02	-21.37	0.3	0.16		0.59		11.51
+160-967B	967	S5	B2H1	1.23	1.25	2.32	0.02	-21.29	0.3	0.16	0.01	0.30	0.30	14.23
+160-967B	967	S5	B2H1	1.27	1.29	2.22	0.02	-24.27	0.3	0.17		0.81		12.77
+160-967B	967	S5	B2H1	1.29	1.31	2.13	0.02	-24.21	0.3	0.18		1.26		11.84
+160-967B	967	S5	B2H1	1.31	1.33	0.85	0.01	-19.76	0.3	0.07		3.09		12.52
+160-967B	967	S5	B2H1	1.35	1.37	0.40	0.00	-18.39	0.3	0.05		3.43		8.09
+160-967B	967	S5	B2H1	1.37	1.38	0.45	0.00	-17.85	0.3	0.05	0.00	4.35	0.23	9.53
+160-967B	967	S5	B2H1	1.38	1.39	0.52	0.01	-18.31	0.3	0.05	0.00	3.45	0.42	10.39
+160-967B	967	S5	B2H1	1.39	1.41	0.42	0.00	-18.59	0.3	0.05	0.00	3.85	0.47	8.83
+160-967B	967	S5	B2H1	1.41	1.43	0.52	0.01		0.3	0.04		2.47		12.44
+160-967A	967	S74	A9H6	0.00	0.02	0.20	0.00	-22.78	0.3	0.03		3.50		6.93
+160-967A	967	S74	A9H6	0.02	0.04	0.25	0.00	-22.07	0.3	0.03		2.08		8.19
+160-967A	967	S74	A9H6	0.04	0.06	1.06	0.01	-21.97	0.3	0.09	0.01	-0.01	0.66	12.31
+160-967A	967	S74	A9H6	0.06	0.07	1.38	0.01	-21.84	0.3	0.10		-0.64		13.46
+160-967A	967	S74	A9H6	0.07	0.08	1.80	0.02	-22.14	0.3	0.12	0.04	-0.84	0.21	14.89
+160-967A	967	S74	A9H6	0.08	0.09	2.21	0.02	-21.91	0.3	0.14		-0.76		16.34
+160-967A	967	S74	A9H6	0.09	0.11	2.19	0.02	-22.00	0.3	0.15	0.01	-1.06	0.34	14.43
+160-967A	967	S74	A9H6	0.11	0.13	2.35	0.02	-21.50	0.3	0.17		-0.92		13.88
+160-967A	967	S74	A9H6	0.13	0.15	2.54	0.03	-21.94	0.3	0.14		-1.37		18.22
+160-967A	967	S74	A9H6	0.15	0.17	3.75	0.04	-21.32	0.3	0.21		-1.53		17.57
+160-967A	967	S74	A9H6	0.17	0.19	3.25	0.03	-21.41	0.3	0.18	0.01	-1.22	0.18	17.70
+160-967A	967	S74	A9H6	0.19	0.21	3.06	0.03	-21.61	0.3	0.21	0.02	-0.77	0.31	14.85
+160-967A	967	S74	A9H6	0.21	0.22	3.92	0.04	-21.90	0.3	0.18		-0.29		21.63
+160-967A	967	S74	A9H6	0.22	0.23	3.19	0.03	-22.19	0.3	0.21		-0.42		15.37
+160-967A	967	S74	A9H6	0.23	0.24	0.71	0.01	-21.31	0.3	0.06	0.00	1.42	0.44	12.17
+160-967A	967	S74	A9H6	0.24	0.26	0.38	0.00	-20.84	0.3	0.03		3.02		12.03
+160-967A	967	S74	A9H6	0.26	0.28	0.27	0.00	-20.69	0.3	0.03	0.00	1.96	0.50	9.47
+160-967A	967	S74	A9H6	0.28	0.30	0.23	0.00	-20.59	0.3	0.02		3.81		10.48
